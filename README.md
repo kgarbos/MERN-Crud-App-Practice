@@ -1,7 +1,7 @@
 # MERN-Crud-App-Practice
 Used the MERN stack, JWT and axios to create a CRUD app
 
-MongoDB Atlas & Mongoose, ExpressJS, React, NodeJS
+- MongoDB Atlas & Mongoose, ExpressJS, React, NodeJS (MERN) was the stack used
 
 - axios was used to make HTTP requests
 - Mongooose.Schema was used
